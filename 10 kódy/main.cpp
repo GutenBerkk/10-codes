@@ -1,0 +1,68 @@
+#include <iostream>
+
+int main() {
+    const char* codes[] = {
+        "Zm?na frekvence",
+        "Návrat na stanici",
+        "Ticho na vysíla?ce",
+        "Ok, rozumím",
+        "P?estávka",
+        "Zaneprázdn?ný",
+        "Mimo službu",
+        "Ve služb?",
+        "Opakujte hlášení",
+        "Napadení",
+        "Traffic stop",
+        "Samostatná jízda",
+        "St?elba",
+        "Prodej drog",
+        "P?evážení osoby sm?r [stanice]",
+        "Krádež vozidla",
+        "Podez?elá osoba",
+        "Tresspasing",
+        "Lokace",
+        "Ignorujte p?íkaz",
+        "Dorazil na místo/scénu",
+        "Opouští místo/scénu",
+        "Domácí násilí",
+        "Kontrola ?idi?ského pr?kazu",
+        "Kontrola registra?ní zna?ky",
+        "Zkontrolujte, zda je osoba hledaná",
+        "Hledaná osoba",
+        "Osoba není v pátrání, nemá aktivní zatyka?",
+        "Je pot?eba asistence",
+        "Vykli?te scénu",
+        "Zahájení patroly",
+        "Ukon?ení patroly",
+        "Podejte informace",
+        "Osoba zem?ela",
+        "Dopravní nehoda",
+        "Pot?ebuji odtahovku",
+        "Pot?ebuji záchranku/EMS",
+        "Pot?ebuji hasi?e/FD",
+        "?idi? pod vlivem omamných látek",
+        "Chodec pod vlivem omamných látek",
+        "Ozbrojen st?elnou zbraní",
+        "Ozbrojen ?eznou zbraní",
+        "Únos",
+        "Sexuální napadení",
+        "P?eprava v?zn? do v?znice",
+        "Bezohledný ?idi?",
+        "Požár",
+        "Ozbrojená loupež",
+        "Vykrádání domu",
+        "P?ší nahán?ní - Suspect uniká",
+        "Dozor na scénu",
+        "Ujížd?ní hlídce",
+        "Napomenutí policisty-záchraná?e",
+        "Suspect in custody (suspect zadržen)",
+        "Na cest?",
+        "Pokra?uji v hlídce",
+        "Officer v nouzi"
+    };
+
+    int size = sizeof(codes) / sizeof(codes[0]);
+
+
+    return 0;
+}
