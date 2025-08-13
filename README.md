@@ -15,7 +15,7 @@ Kódy lze použít pro:
 
 ## Stažení
 
-📥 **[Kliknutím zde stáhnete program (.exe)](10 kódy.exe)**  
+📥 **[Kliknutím zde stáhnete program (.exe)](10%20kódy.exe)** 
 
 > Program je zkompilovaná verze seznamu 10-kódů pro rychlé otevření bez potřeby kompilace kódu.
 
