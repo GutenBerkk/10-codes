@@ -125,6 +125,7 @@ int main() {
       
     for(int i = 0; i<count;i++)
     {
+        srand(time(nullptr));
         randomNum = rand() % size;
         while(codes[randomNum] == " ")
         {
